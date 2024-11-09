@@ -16,9 +16,9 @@ This project provides a basic simulation of UART communication for embedded syst
 - Parity bit error checking
 - 
 ### Prerequisites
-- A C++11-compatible compiler (e.g., `g++` or `clang++`)
-- CMake (optional but recommended for building the project)
-- Basic knowledge of serial communication (UART)
+- A C++11-compatible compiler 
+- CMake 
+- Basic knowledge of communication protocol (UART)
 
 ### Installation
 1. **Clone the repository:**
