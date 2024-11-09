@@ -14,7 +14,7 @@ This project provides a basic simulation of UART communication for embedded syst
 - Simulated UART transmission and reception
 - Multithreading for interrupt simulation
 - Parity bit error checking
-- 
+
 ### Prerequisites
 - A C++11-compatible compiler 
 - CMake 
